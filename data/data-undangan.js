@@ -86,6 +86,16 @@ window.DATA = {
       "atasNama": "Alya Putri"
     }
   ],
+  "logoBank": true,
+  "pihakKlien": "pria",
+  "panelAdmin": {
+    "ucapanPublik": true,
+    "turutMengundang": true,
+    "rekening": true,
+    "urutanNama": true,
+    "pesanWa": true,
+    "pratinjauLink": true
+  },
   "alamatKado": "Alya Putri (085716300907) - Alamat lengkap pengiriman hadiah",
   "turutMengundangTampil": true,
   "turutMengundang": [
